@@ -11,7 +11,7 @@ Este jogo é baseado no sorteio pelo sistema do amigo secreto a partir de uma li
 
 ## 🎬 Tutorial
 
-
+https://github.com/user-attachments/assets/d85b893f-2f81-411a-9137-c9188234fa66
 
 ## Tecnologias usadas 
 
